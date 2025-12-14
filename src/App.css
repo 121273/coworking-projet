@@ -1,0 +1,252 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+/* 
+
+.nav-bar{
+  background-color: black;
+  padding: 0px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: whitesmoke;
+}
+
+.aside{
+  border: 1px solid lightgray;
+  padding: 5px;
+  height: fit-content;
+  width: 30%;
+  text-align: center;
+  margin-top: 9px;
+}
+
+ul{
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.section{
+  display: flex;
+
+  
+}
+
+.articles{
+  height: 100%;
+  flex-grow: 1;
+  border: 1px lightgray solid;
+  margin: 10px;
+  padding: 9px;
+
+}
+
+
+form{
+  height: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly ;
+}
+form  p {
+  color:red;
+}
+
+
+
+/* projet ma boutique */
+
+
+/* .laPage{
+  display: flex;
+  flex-direction: column;
+  background-color: #eeeeee85;
+  padding: 15px;
+  
+
+}
+
+h3{
+  border: #61a4fb solid 4px;
+  padding: 18px;
+  border-radius: 7px;
+}
+.laPage div{
+  border: 2px solid rgb(136, 17, 172);
+  background-color: rgba(238, 130, 238, 0.39);
+  padding: 15px;
+  text-align: center;
+}
+
+button{
+  background-color: rgb(136, 17, 172) ;
+  border:none ;
+  color: white;
+  border-radius:5px ;
+  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 15px;
+  
+}
+
+p{
+  color: darkgray;
+}
+
+.laPage .nav{
+  display: flex;
+  justify-content: space-between;
+  background-color: #eeeeee85;
+  border: 4px solid rgba(114, 197, 114, 0.938);
+  border-radius: 7px;
+
+}
+
+.nav span{
+  align-self: center;
+}
+
+.laPage .parent{
+    margin-top: 10px;
+    border: 4px solid lightsalmon ;
+    background-color: #eeeeee85;
+    border-radius: 7px;
+}
+
+.parent .card{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  background-color: #eeeeee85;
+  border: none;
+  margin: 10px;
+
+  
+  
+
+
+}
+
+.parent{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card div:nth-child(1){
+  flex-basis: 150px;
+  background-color: #ddd;
+  border:3px solid #665a5a67 ;
+  border-bottom: transparent ;
+  border-top-right-radius: 10px ;
+  border-top-left-radius: 10px ;
+  width: 200px;
+
+  
+  
+  
+}
+
+.card .desc{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  align-items: flex-start;
+  border:3px solid #665a5a90;
+  border-top: transparent ;
+  border-bottom-right-radius:10px ;
+  border-bottom-left-radius:10px ;
+  width: 200px;
+}
+
+.desc button{
+  align-self: stretch;
+  background-color: #2196F3;
+  margin: 5px;
+  font-family: "Playfair Display", sans-serif;
+
+}
+
+.DProduct{
+  margin: 2px;
+
+}
+
+.DProduct > p::before{
+  content: '<-- ';
+}
+
+
+.DProduct > p{
+  border: 4px solid #61a4fb;
+  padding: 15px;
+  margin: 0 5px;
+
+}
+
+.product-card{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+.product-card > img{
+  min-width: 300px;
+  border: 4px solid violet;
+  padding: 15px;
+  margin: 5px;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.product-detail{
+  border: 4px solid #00FF00;
+  padding: 15px;
+  margin: 5px;
+  flex-grow: 1;
+} */
+
+
+
+ 
